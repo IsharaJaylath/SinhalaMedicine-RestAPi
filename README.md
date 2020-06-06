@@ -6,9 +6,23 @@ This project is created by using Nodejs, mongoDB and express.
 #Installing
 
 npm install -g nodemon    automatically restarting the node application when file changes in the directory are detected.
+
+
+
+
 npm install express       HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
+
+
+
 npm install mongoose      Mongoose provides a straight-forward, schema-based solution to model your application data.
+
+
+
 npm install jsonwebtoken  For jwt token
+
+
+
+
 npm install bcrypt        To Hash your Password
 
 
