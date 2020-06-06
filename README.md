@@ -1,10 +1,25 @@
-# SinhalaMedicine-RestAPi
+# SinhalaMedicine-RestApi
+
 This is a complete rest-API with user authentication and complete crud operations.
 Developers can use this rest-api for Sinhala medicine and sinhala recipes app ideas.
 This project is created by using Nodejs, mongoDB and express.
 
-##Installing
 
+### Prerequisites
+
+Nodejs,Express,MongoDB
+
+```
+Give examples
+```
+
+### Installing
+
+nodemon,express,mongoose,jsonwebtoken and bcrypt
+
+
+
+```
 npm install -g nodemon    automatically restarting the node application when file changes in the directory are detected.
 
 
@@ -24,9 +39,10 @@ npm install jsonwebtoken  For jwt token
 
 
 npm install bcrypt        To Hash your Password
+```
 
 
-###Steps
+## Running Steps
 1.Download or clone this repository
 
 
@@ -47,6 +63,22 @@ npm install bcrypt        To Hash your Password
       nodemon server.js
       
       
+
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [express](https://expressjs.com/) - The web framework used
+* [mongoDB](https://mongodb.com/) - Database
+* [nodejs](https://nodejs.org/en/) -  Node.js is designed to build scalable network applications
+
+## Author
+* **Tharidu Ishara**
+
+    
 
 
 
