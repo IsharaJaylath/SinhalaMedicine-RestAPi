@@ -9,9 +9,6 @@ This project is created by using Nodejs, mongoDB and express.
 
 Nodejs,Express,MongoDB
 
-```
-Give examples
-```
 
 ### Installing
 
