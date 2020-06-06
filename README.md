@@ -55,6 +55,15 @@ npm install bcrypt        To Hash your Password
 
 
 
+
+4.create file name called .env and add this syntax and save
+```
+DATABASE_URL=[Copy and paste your Database Url]
+JWT_KEY=secret
+```
+
+
+
 4.open project in your editor
 
 
