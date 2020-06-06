@@ -28,9 +28,21 @@ npm install bcrypt        To Hash your Password
 
 #Steps
 1.Download or clone this repository
+
+
+
 2.Download MongoDB
+
+
+
 3.install all packages using nodejs
+
+
+
 4.open project in your editor
+
+
+
 5.Run project using terminal 
       nodemon server.js
       
