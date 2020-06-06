@@ -56,7 +56,12 @@ npm install bcrypt        To Hash your Password
 
 
 
-4.create file name called .env and add this syntax and save
+4.open project in your editor
+
+
+
+
+5.create file name called .env and add this syntax and save
 ```
 DATABASE_URL=[Copy and paste your Database Url]
 JWT_KEY=secret
@@ -64,19 +69,12 @@ JWT_KEY=secret
 
 
 
-4.open project in your editor
-
-
-
-5.Run project using terminal 
+6.Run project using terminal 
       nodemon server.js
       
       
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -85,7 +83,7 @@ Add additional notes about how to deploy this on a live system
 * [nodejs](https://nodejs.org/en/) -  Node.js is designed to build scalable network applications
 
 ## Author
-* **Tharidu Ishara**
+* **Tharidu Ishara **
 
     
 
